@@ -1,3 +1,7 @@
+Note 2014: This is a fork of the original project from
+https://github.com/neo-layout/neo-layout/tree/master/linux/osd
+to add build scripts for package management
+
 ************************************************************************
 *                                                                      *
 *   OSD Neo2                      Copyright (c) 2009 Martin Zuther     *
